@@ -1,4 +1,4 @@
-# FINAL-PROJECT-DWO-KELOMPOK-1
+# FINAL PROJECT DWO KELOMPOK 1
 
 Final Project Pengembangan Data Warehouse dan Dashboard Adventure Works 2023 <br><br>
 Dibuat oleh:<br>
@@ -23,9 +23,9 @@ Nama Anggota :
 <li>⁠Extract dwo23.zip pada folder htdocs XAMPP (xampp/htdocs).</li>
 <li>⁠Jalankan Xampp control panel.</li>
 <li>⁠Start apache dan mysql server.</li>
- <li>⁠Buka phpMyAdmin (localhost/phpmyadmin).</li>
- <li>⁠Buat database dengan nama dwaw23.</li>
- <li>⁠Import file dwaw.sql ke dalam database dwaw23.</li>
- <li>⁠Download dan Extract mondrian.zip ke dalam server Tomcat bawaan dari XAMPP (xampp/tomcat/webapps).</li>
+<li>⁠Buka phpMyAdmin (localhost/phpmyadmin).</li>
+<li>⁠Buat database dengan nama dwaw23.</li>
+<li>⁠Import file dwaw.sql ke dalam database dwaw23.</li>
+<li>⁠Download dan Extract mondrian.zip ke dalam server Tomcat bawaan dari XAMPP (xampp/tomcat/webapps).</li>
 <li>⁠Jalankan aplikasi dengan mengakses http://localhost/dwo23</li>
 </ol>
