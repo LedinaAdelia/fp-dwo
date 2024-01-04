@@ -1,13 +1,13 @@
 # FINAL PROJECT DWO KELOMPOK 1
 
 Final Project Pengembangan Data Warehouse dan Dashboard Adventure Works 2023 <br><br>
-Dibuat oleh:<br>
+## Dibuat oleh:<br>
 Kelompok      : <strong>Kelompok 1</strong><br>
 Program Studi : <strong>Sistem Informasi</strong><br>
 Fakultas      : <strong>Ilmu Komputer</strong><br>
 Universitas   : <strong>UPN "Veteran" Jawa Timur</strong><br><br>
 
-Nama Anggota :
+## Nama Anggota :
 <ol>
 <li>20082010014 Nur Imro’atus Solikha</li>
 <li>20082010093 Didan Rizky Adha</li>
@@ -15,7 +15,7 @@ Nama Anggota :
 <li>21082010032 Dinda Nur Halisa</li>
 </ol>
 
-<br><br>Langkah-langkah yang dibutuhkan untuk menjalankan app dengan baik :
+## <br><br>Langkah-langkah yang dibutuhkan untuk menjalankan app dengan baik :
 <br>
 <ol>
 <li>⁠Install database server: MySql (disini kami menggunakan Xampp versi terbaru).</li>
